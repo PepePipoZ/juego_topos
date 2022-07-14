@@ -1,0 +1,54 @@
+#topo{
+    top: 300px;
+    left: 150px;
+    width: 90px;
+    height: 70px;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+        
+}
+#play{
+    top: 30px;
+    left: 700px;
+    width: 75px;
+    height: 75px;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-image: url(img/play.png);
+    border-radius: 50%;
+  
+}
+#facil{
+    top: 130px;
+    left: 700px;
+    width: 125px;
+    height: 40px;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-image: url(img/facil.png);
+}
+#normal{
+    top: 230px;
+    left: 700px;
+    width: 125px;
+    height: 40px;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-image: url(img/normal.png);
+}
+#dificil{
+    top: 330px;
+    left: 700px;
+    width: 125px;
+    height: 40px;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-image: url(img/dificil.png);
+}
+.PUNTOS1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: brown;
+}
